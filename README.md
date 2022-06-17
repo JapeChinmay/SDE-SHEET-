@@ -1,2 +1,2 @@
 # SDE-SHEET-
-Prcticing SDE  SHEET problems.
+Practicing  SDE  SHEET problems. Each day, will update .
