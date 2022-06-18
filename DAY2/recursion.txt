@@ -1,0 +1,29 @@
+/// PMI
+
+
+f(n) is true fro all natural numbers.
+
+
+1)) prove f(0) or f(1) is true.
+2)) Induction hypothesis = Assume f(k) is true.
+
+3)) induction step  = using 2)) prove f(k+1) is true
+
+
+
+sigma = n*(n+1)/2
+
+sigma(0) = 0 
+
+0*(0+1)/2;
+
+
+sigma(1) = 1
+
+rhs = 1 = lhs
+
+
+
+IH = sigma(k) = k*(k+1)/2
+
+sigma(k+1)  = 
